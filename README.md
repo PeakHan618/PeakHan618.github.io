@@ -1,3 +1,3 @@
 # Linguage
 
-网址：[peakhan618.github.io](http://peakhan618.github.io)
+网址：[linguage.github.io](http://linguage.github.io)
